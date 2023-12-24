@@ -26,6 +26,7 @@
 Run this prompt via your terminal/path
 **Requires:** `Python 3.10+`
 **Install the requirements:** `pip install -r requirements.txt`
+**Free HTTP proxies can be found here:** https://github.com/TheSpeedX/PROXY-List
 
 ---
 
