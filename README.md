@@ -1,7 +1,7 @@
 # Discord-Promo-Generator
-![image](https://github.com/S3verity/Discord-Promo-Generator/assets/154714924/b1e4d284-f753-457b-be42-a0b11b68ff70)
 - The fastest Opera GX Promotion Generator // December 2023
 - Star the repository and follow me on Github
+![image](https://github.com/S3verity/Discord-Promo-Generator/assets/154714924/b1e4d284-f753-457b-be42-a0b11b68ff70)
 
 # ℹ️ Features
 - Bypass Rate Limits (With Proxies)
