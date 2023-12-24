@@ -1,6 +1,6 @@
 # Discord-Promo-Generator
-The fastest Opera GX Promotion Generator // December 2023
-Star the repository and follow me on Github
+- The fastest Opera GX Promotion Generator // December 2023
+- Star the repository and follow me on Github
 
 # ℹ️ Features
 - Bypass Rate Limits (With Proxies)
