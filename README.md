@@ -1,7 +1,4 @@
 <h1 align="center">Discord Promo Generator</h1>
-
----
-
 <h2 align="center">⏩ The fastest Opera GX Promotion Generator ⏪</h2>
 
 ---
