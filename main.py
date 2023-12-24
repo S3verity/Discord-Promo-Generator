@@ -58,7 +58,7 @@ class O:
                # Logger.Sprint("+", f"Successfully Generated : {link}", Fore.GREEN) -- previous
                 genned += 1
                 with lock:
-                    open("promos.txt", 'a').write(f"{link}\n")
+                    open("codes.txt", 'a').write(f"{link}\n")
                     update_title()
             except:
                 print_exc()
