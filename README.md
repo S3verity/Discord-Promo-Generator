@@ -1,6 +1,4 @@
-<body style="text-align: center;">
-  <h1>Discord-Promo-Generator</h1>
-</body>
+<center>  Discord Promo Generator</center>
 <h1><b>⏩ The fastest Opera GX Promotion Generator ⏪</b></h1>
 
 ![image](https://github.com/S3verity/Discord-Promo-Generator/assets/154714924/c3b4bc73-6adb-4c63-8120-203ba0da0ca7)
