@@ -1,5 +1,5 @@
 # Discord-Promo-Generator
-⏩ The fastest Opera GX Promotion Generator // December 2023 ⏪
+<h1><b>⏩ The fastest Opera GX Promotion Generator // December 2023 ⏪</b></h1>
 ![image](https://github.com/S3verity/Discord-Promo-Generator/assets/154714924/0762d5a9-d17e-45ae-a472-1b9d3e348e03)
 
 # ℹ️ Features
