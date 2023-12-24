@@ -2,7 +2,7 @@
 <h1><b>⏩ The fastest Opera GX Promotion Generator ⏪</b></h1>
 
 <div align="center">
-<img src="![image](https://github.com/S3verity/Discord-Promo-Generator/assets/154714924/c3b4bc73-6adb-4c63-8120-203ba0da0ca7)" alt="Promo Gen">
+<img src="https://github.com/S3verity/Discord-Promo-Generator/assets/154714924/c3b4bc73-6adb-4c63-8120-203ba0da0ca7" alt="Promo Gen">
 </div>
 
 # ℹ️ Features
