@@ -13,7 +13,7 @@ Star the repository and follow me on Github
 
 # ⚙️ Installation
 Run this prompt via your terminal/path
+```pip install -r requirements.txt```
 
 # 📺 Preview
-Like and Subscribe
-https://www.youtube.com/watch?v=snE8QPRzuY8&t=2s
+  <p>Like and Subscribe: <a href="https://www.youtube.com/watch?v=snE8QPRzuY8&t=2s" target="_blank">https://www.youtube.com/watch?v=snE8QPRzuY8&t=2s</a></p>
