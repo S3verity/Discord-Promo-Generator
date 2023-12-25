@@ -3,7 +3,6 @@ uuid
 ctypes
 threadpoolexecutor
 fore
-stype
 init
 datetime
 lock
