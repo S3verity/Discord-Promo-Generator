@@ -34,4 +34,4 @@
 ---
 
 ### 📺 Tutorial
-<p><b>Like and Subscribe : <a href="https://www.youtube.com/watch?v=oDKCU1WJOJw&t=66s" target="_blank"></a></b></p>
+<p><b>Like and Subscribe : <a href="https://www.youtube.com/watch?v=oDKCU1WJOJw&t=66s" target="_blank">https://www.youtube.com/watch?v=oDKCU1WJOJw&t=66s</a></b></p>
