@@ -27,7 +27,7 @@
 ---
 
 ### ⚙️ Installation
-1. **Requires:** `Python 3.10+`
+1. **Requires:** `Python 3.11.6+`
 2. **Install the requirements:** `pip install -r requirements.txt`
 3. **Free HTTP proxies can be found here:** https://github.com/TheSpeedX/PROXY-List
 
