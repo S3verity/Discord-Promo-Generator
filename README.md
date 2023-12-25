@@ -33,5 +33,5 @@
 
 ---
 
-### 📺 Showcase
-<p><b>Like and Subscribe : <a href="https://www.youtube.com/watch?v=snE8QPRzuY8&t=2s" target="_blank">https://www.youtube.com/watch?v=snE8QPRzuY8&t=2s</a></b></p>
+### 📺 Tutorial
+<p><b>Like and Subscribe : <a href="https://www.youtube.com/watch?v=snE8QPRzuY8&t=2s" target="_blank">https://www.youtube.com/watch?v=oDKCU1WJOJw</a></b></p>
